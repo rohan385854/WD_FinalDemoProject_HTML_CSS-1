@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+	font-family: 'Poppins' ;
+}
+h4{
+	font-size: 30px;
+}
+p{
+    color: dimgray;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.crimson{
+	font-size: 50px;
+	color: crimson;
+}
+}
+.top-banner{
+	background-image: url(images/header-bg.png);
+	background-repeat: no-repeat;
+}
+section{
+	height: 500px;
+	padding-top: 50px;
+	padding-bottom: 150px;
+}
+.half-width{
+	width: 40%;
+	float:left;
+	margin-left: 5%;
+	padding-left: 2%;
+}
+#a{
+    margin-top: 5%;
+}
+#b{
+    margin-top: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+	text-decoration: none;
+	font-weight: 700;
+	background-color: crimson;
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+}
+.mid-area-1{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#c{
+    text-align: center;
+    font-size: 40px;
+}
+.mid-area-2{
+	background-image: url(images/latest-work-bg.png);
+	background-repeat: no-repeat;
+}
+.half-width-1{
+	width: 30%;
+	float: left;
+}
+.half-width-1 img{
+    width: 100%;
+}
+.text{
+	text-align: center;
+	font-size: 30px;
+}
+.text h6{
+	font-size: 10px;
+}
+.text p{
+	text-align: center;
+}
+.link-button-1{
+	text-decoration: none;
+	font-weight: 700;
+	background-color: #ff004c;
+	padding: 50px 70px;
+	border-radius: 5px;
+	color: white;
+}
